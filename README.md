@@ -12,6 +12,7 @@ care să se ocupe de mentenanță și să rezolve în câteva momente diversele
 situații întâlnite. Am considerat interesant acest sistem de lucru, felul în care,
 constant, dispozitivul cu care interacționăm noi este conectat la o bază de date
 care este modificată de alte sute de utilizatori în același timp.
+
 Acest program este destinat pentru cei care vor să aibă un mic
 „bancomat” chiar la ei acasă, ce conține funcțiile principale pe care noi le
 folosim zi de zi. Precum jocul Monopoly este făcut să învețe copiii să
@@ -19,6 +20,7 @@ gestioneze bani și proprietăți, oferindu-le acces nelimitat la sumele pe care
 dețin, astfel funcționează și acest program, care îți oferă libertatea de a
 modifica și vizualiza sumele oricărui utilizator introdus în baza de date, dar
 și de a adăuga nenumărați alți oameni în sistem.
+
 Poate vrei să strângi fondul clasei și te-ai plictisit de banalul caiețel și
 plic, sau poate faci chetă cu niște prieteni pentru un cadou. Cu acest program,
 poți să-ți adaugi toți prietenii sau colegii și să ții evidența banilor pe care îi
