@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680355891 source:c:\users\robert\desktop\istrate alexandru daniel - atestat clasa a xii-a\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<iomanip>
+
